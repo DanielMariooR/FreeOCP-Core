@@ -18,7 +18,7 @@ Please find the documentation here
 - [x] **Course Enrollment** 
 
 ## Quick start
-Please refer to the quick start guide to get started quickly with freeocp.
+Please refer to the [quick start guide](https://github.com/DanielMariooR/FreeOCP-Core/blob/main/docs/QUICK.md) to get started quickly with freeocp.
 
 ## Development branches
 - `develop` - This branch has often new features, but might also contains breaking changes.
@@ -29,11 +29,11 @@ Please refer to the quick start guide to get started quickly with freeocp.
 
 ### Help
 
-For any questions not covered by the documentation or for further information about the bot, or to simply engage with like-minded individuals, please contact me on danielmarioreynaldi@gmail.com.
+For any questions not covered by the documentation or to simply engage with like-minded individuals, please contact me on danielmarioreynaldi@gmail.com.
 
 ### Bugs / Issues
 
-If you discover a bug in the bot, please
+If you discover a bug in the website, please
 search the issue tracker
 first. If it hasn't been reported, please
 create a new issue and
@@ -54,5 +54,5 @@ in the bug reports.
 Feel like the bot is missing a feature? We welcome your pull requests!
 
 Please read the
-[Contributing document](https://github.com/freqtrade/freqtrade/blob/develop/CONTRIBUTING.md)
+[Contributing document](https://github.com/DanielMariooR/FreeOCP-Core/blob/main/docs/CONTRIBUTING.md)
 to understand the requirements before sending your pull-requests.
