@@ -1,5 +1,5 @@
 # FreeOCP
-
+## ![Freeocp](https://raw.githubusercontent.com/DanielMariooR/FreeOCP-Core/main/docs/assets/logo.png)
 
 FreeOCP is a free for all open source template for educational website written in Golang and React. FreeOCP is designed for ease of use and resource efficient deployment. It contains all the important features for educational site such as course enrollment and course and problem contribution.
 
