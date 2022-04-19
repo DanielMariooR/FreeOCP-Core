@@ -6,7 +6,7 @@ FreeOCP is a free for all open source template for educational website written i
 ## Documentation 
 We invite you to read the official documentation we have prepared to get a better understanding of the software. 
 
-Please find the documentation here 
+Please find the documentation [here](https://github.com/DanielMariooR/FreeOCP-Core/blob/main/docs/DOCUMENTATION.md) 
 
 ## Features
 
