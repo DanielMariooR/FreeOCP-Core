@@ -14,7 +14,7 @@ This quick start guide is for helping those that want to quickly see the feature
 - Check to see if the service is up and running
 
 ## React Frontend
-- Clone the FreeOCP-Client from here
+- Clone the FreeOCP-Client from [here](https://github.com/DanielMariooR/FreeOCP-Client)
 - Run the following command `npm install` to install all the required dependencies
 - Run the following command `npm start` to start the npm client
 - Open the client in `http://localhost:3000` to start exploring the freeocp website.
