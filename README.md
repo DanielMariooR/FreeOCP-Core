@@ -51,7 +51,7 @@ in the bug reports.
 
 ### Pull Requests
 
-Feel like the bot is missing a feature? We welcome your pull requests!
+Feel like the website is missing a feature? We welcome your pull requests!
 
 Please read the
 [Contributing document](https://github.com/DanielMariooR/FreeOCP-Core/blob/main/docs/CONTRIBUTING.md)
