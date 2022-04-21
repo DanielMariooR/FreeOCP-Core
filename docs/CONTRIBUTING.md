@@ -36,7 +36,7 @@ go test -v -cover -coverprofile=cover.out `go list ./...`
 
 How to prioritize pull requests, from most to least important:
 
-1. Fixes for broken tests. Broken means broken on any supported platform or Python version.
+1. Fixes for broken tests.
 1. Extra tests to cover corner cases.
 1. Minor edits to docs.
 1. Bug fixes.
